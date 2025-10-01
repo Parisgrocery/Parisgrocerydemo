@@ -99,9 +99,9 @@ display: inline-block;
     color: var(--black);
 }--- >
 
-.header .logo i {
+<!---.header .logo i {
     color: var(--orange);
-}
+} --->
 
 .header .navbar a {
     font-size: 1.7rem;
